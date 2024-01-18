@@ -1,12 +1,14 @@
 <h1 align="center">Hi. I am Ömer Yiğit Avşar</h1>
 <h3 align="center">Fırat University Faculty of Technology Software Engineering student.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omeryigitavsar&label=Profile%20views&color=0e75b6&style=flat" alt="omeryigitavsar" /> </p>
+
 - 📫 How to reach me **omeryigitavsar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ömer yiğit avşar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ömer yiğit avşar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/omeryigitavsar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="omeryigitavsar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@omeryigitavsar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@omeryigitavsar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
